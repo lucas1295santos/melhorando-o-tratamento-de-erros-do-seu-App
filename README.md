@@ -1,6 +1,7 @@
 # Melhorando o tratamento de erros do seu App
 ## Slides
-No repositório como <i>melhorando-o-tratamento-de-erros-do-seu-App.pdf</i>
+
+No repositório como [melhorando-o-tratamento-de-erros-do-seu-App.pdf](melhorando-o-tratamento-de-erros-do-seu-App.pdf)
 ## Referências
 ### Clean code - <s>Robert C. Martin</s> Uncle Bob
 O capítulo 7 desse livro foi minha maior referência, e o realmente me fez prestar mais atenção na importância de um bom tratamento de erros. 
