@@ -17,3 +17,8 @@ Eu aprendi muito sobre os princípios do <b>SOLID</b> com esse repositório do [
 
 Para uma introdução mais leve, esse artigo do [hackernoon](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf) é muito bom também.
 ### Monitoramento
+[Logz.io](https://logz.io/learn/)
+
+[Dynatrace](https://www.dynatrace.com/platform/)
+
+[New relic](https://newrelic.com/products/mobile-monitoring)
